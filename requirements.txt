@@ -1,0 +1,31 @@
+# LangChain 核心框架与生态包
+langchain
+langchain-community
+langchain-core
+langchain-openai
+langchain-text-splitters
+langchain-experimental
+
+# 向量数据库与分词
+chromadb
+faiss-cpu
+tiktoken
+
+# 文档解析与数据处理
+pypdf
+python-docx
+openpyxl
+unstructured
+pandas
+tabulate
+
+# 前端交互与开发调试
+streamlit
+jupyter
+ipykernel
+python-dotenv
+
+# 进阶评估与模型支持
+ragas
+cohere
+sentence-transformers
